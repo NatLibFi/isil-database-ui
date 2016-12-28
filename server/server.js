@@ -2,4 +2,4 @@
 
 import express from 'express';
 
-console.log("Fuck!");
+console.log("Test.");
